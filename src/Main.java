@@ -27,5 +27,6 @@ public class Main {
         phoneList.put("Александровна", "+79831407113");
 
         System.out.println(phoneList.get("Сергеевна"));
+        System.out.println(phoneList.keySet());
     }
 }
